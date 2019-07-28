@@ -1,0 +1,21 @@
+RegEx de um CPF 
+"\d{3}[.-]?\d{3}[.-]?\d{3}[.-]?\d{2}" 
+
+"\s = [ \t\r\n\f]" 
+"\t -> tab ; \r -> carriage return ; \n -> newline ; \f -> form feed" 
+
+quantifiers: 
+"? -> zero ou uma vez" 
+"* -> zero ou mais vezes" 
+"+ -> uma ou mais vezes" 
+"{n} -> exatamente n vezes" 
+"{n, } -> no minimo n vezes" 
+"{n, m} -> no minimo n vezes, no maximo m vezes" 
+
+Ancoras 
+"\b -> word boundary" 
+"\B -> non-word boundary" 
+"^ -> inicio da string" 
+"$ -> final da string" 
+
+"(?:) -> non-capturing group" 

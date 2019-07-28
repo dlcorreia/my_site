@@ -1,0 +1,12 @@
+mysite
+|
+|--index.html
+|
+|--exercises_index.html
+|
+|--css
+|
+|--js
+|
+|--exercises
+	|--.*.html / exercise
