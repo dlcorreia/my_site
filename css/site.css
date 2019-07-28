@@ -17,3 +17,9 @@ h1, h2 {
     border-bottom: 10px solid black;
     font-size: 60px;
 }
+
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 30px 0;
+}
