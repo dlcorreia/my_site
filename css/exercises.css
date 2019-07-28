@@ -1,0 +1,15 @@
+.exercise {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.container-exercise {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
